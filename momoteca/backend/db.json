@@ -1,22 +1,3 @@
 {
-  "pensamentos": [
-    {
-      "conteudo": "Testando criação de pensamento",
-      "autoria": "Henrique Cesar de Souza",
-      "modelo": "modelo1",
-      "id": 1
-    },
-    {
-      "conteudo": "Olá claro amigo",
-      "autoria": "Eu!",
-      "modelo": "modelo3",
-      "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "",
-      "id": 3
-    }
-  ]
+  "pensamentos": []
 }
